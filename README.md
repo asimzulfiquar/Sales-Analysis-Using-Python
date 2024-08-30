@@ -1,7 +1,3 @@
-Sure! Below is a detailed README file for your project:
-
----
-
 # Diwali Sales Analysis
 
 ## Overview
